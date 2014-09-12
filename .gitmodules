@@ -1,0 +1,3 @@
+[submodule "CC.Common.Compression/SharpZipLib"]
+	path = CC.Common.Compression/SharpZipLib
+	url = git@github.com:icsharpcode/SharpZipLib.git
